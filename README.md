@@ -39,13 +39,19 @@ Aby uruchomić projekt lokalnie, wykonaj następujące kroki:
    cd ZdzislawGrabda-AleksanderDrozdowicz-projektNRB-2025
    ```
 
-3. **Zainstaluj zależności**:
+3. **Pobierz niezbędne rozszerzenia i umieść w katalogu projektu**:
+
+   ```
+   https://drive.google.com/drive/folders/1VximRdbCV-nCk3-JVDIY8SIeaIUSnqc8?usp=sharing
+   ```
+
+4. **Zainstaluj zależności**:
 
    ```bash
    npm install
    ```
 
-4. **Skonfiguruj połączenie z bazą danych**:  
+5. **Skonfiguruj połączenie z bazą danych**:  
    - Utwórz plik `.env` w katalogu głównym projektu.  
    - Wypełnij go następującymi danymi:
 
@@ -55,13 +61,13 @@ Aby uruchomić projekt lokalnie, wykonaj następujące kroki:
      PORT=5000
      ```
 
-5. **Uruchom aplikację**:
+6. **Uruchom aplikację**:
 
    ```bash
    npm start
    ```
 
-6. Aplikacja będzie dostępna pod adresem: `http://localhost:5000`.
+7. Aplikacja będzie dostępna pod adresem: `http://localhost:5000`.
 
 ## Struktura projektu
 
