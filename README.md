@@ -9,16 +9,21 @@ Technologie
 Projekt został stworzony przy użyciu następujących technologii:
 
 Baza danych: MongoDB (baza nierelacyjna z obsługą kolekcji i relacji).
+
 Backend: Node.js z użyciem frameworka Express.js.
+
 Zarządzanie bazą danych: Mongoose.js (modelowanie obiektowo-dokumentowe dla MongoDB).
+
 Autoryzacja i uwierzytelnianie: JSON Web Token (JWT).
-Funkcjonalności
-Przechowywanie recenzji dotyczących firmy w bazie nierelacyjnej.
-Kolekcje zagnieżdżone oraz powiązane za pomocą relacji.
-API umożliwiające przeglądanie danych z pojedynczych kolekcji, jak i połączonych (z użyciem metody populate).
-Bezpieczeństwo API dzięki zastosowaniu middleware JWT do autoryzacji routów.
-Instalacja
-Aby uruchomić projekt lokalnie, wykonaj następujące kroki:
+
+Funkcjonalności:
+
+- Przechowywanie recenzji dotyczących firmy w bazie nierelacyjnej.
+- Kolekcje zagnieżdżone oraz powiązane za pomocą relacji.
+- API umożliwiające przeglądanie danych z pojedynczych kolekcji, jak i połączonych (z użyciem metody populate).
+- Bezpieczeństwo API dzięki zastosowaniu middleware JWT do autoryzacji routów.
+- Instalacja
+- Aby uruchomić projekt lokalnie, wykonaj następujące kroki:
 
 Sklonuj repozytorium:
 
