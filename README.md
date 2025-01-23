@@ -21,8 +21,8 @@ Funkcjonalności:
 - Kolekcje zagnieżdżone oraz powiązane za pomocą relacji.
 - API umożliwiające przeglądanie danych z pojedynczych kolekcji, jak i połączonych (z użyciem metody populate).
 - Bezpieczeństwo API dzięki zastosowaniu middleware JWT do autoryzacji routów.
-- Instalacja
-- Aby uruchomić projekt lokalnie, wykonaj następujące kroki:
+Instalacja
+Aby uruchomić projekt lokalnie, wykonaj następujące kroki:
 
 Sklonuj repozytorium:
 
