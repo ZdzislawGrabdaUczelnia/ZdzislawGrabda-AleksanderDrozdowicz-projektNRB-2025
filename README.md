@@ -5,16 +5,15 @@ Projekt NRB 2025
 Opis projektu
 Projekt NRB 2025 to aplikacja oparta na nierelacyjnej bazie danych MongoDB, która służy do zarządzania recenzjami dotyczącymi pewnej firmy. Aplikacja umożliwia przechowywanie i przetwarzanie danych w kolekcjach powiązanych ze sobą, a także ich udostępnianie za pomocą API stworzonego w Node.js. Projekt został zrealizowany w ramach zajęć akademickich przez Zdzisława Grabdę i Aleksandra Drozdowicza.
 
-Technologie
-Projekt został stworzony przy użyciu następujących technologii:
+Technologie - Projekt został stworzony przy użyciu następujących technologii:
 
-Baza danych: MongoDB (baza nierelacyjna z obsługą kolekcji i relacji).
+- Baza danych: MongoDB (baza nierelacyjna z obsługą kolekcji i relacji).
 
-Backend: Node.js z użyciem frameworka Express.js.
+- Backend: Node.js z użyciem frameworka Express.js.
 
-Zarządzanie bazą danych: Mongoose.js (modelowanie obiektowo-dokumentowe dla MongoDB).
+- Zarządzanie bazą danych: Mongoose.js (modelowanie obiektowo-dokumentowe dla MongoDB).
 
-Autoryzacja i uwierzytelnianie: JSON Web Token (JWT).
+- Autoryzacja i uwierzytelnianie: JSON Web Token (JWT).
 
 Funkcjonalności:
 
